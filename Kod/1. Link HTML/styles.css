@@ -14,3 +14,13 @@
     background-color: aqua;
 
 }
+
+#pudelko {
+    height: 50px;
+    width: 100px;
+    background-color: yellow;
+    margin: 100px;
+    padding: 50px;
+    border: 30px solid yellow;
+  }
+
