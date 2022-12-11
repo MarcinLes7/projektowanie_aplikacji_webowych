@@ -1,0 +1,16 @@
+#bottom-text {
+    position: absolute;
+    top: 500px;
+    bottom: 20px;
+    color: red;
+    background-color: greenyellow;
+}
+
+#upper-text {
+    position: sticky;
+    top: 10px;
+    bottom: 20px;
+    color: orange;
+    background-color: aqua;
+
+}
